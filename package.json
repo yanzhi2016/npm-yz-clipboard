@@ -1,0 +1,14 @@
+{
+  "name": "yz-clipboard",
+  "version": "1.0.3",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yanzhi",
+  "license": "ISC",
+  "dependencies": {
+    "clipboard": "^2.0.6"
+  }
+}
